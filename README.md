@@ -68,7 +68,7 @@ This project demonstrates **data cleaning, feature engineering, and dashboard cr
 ---
 
 ## Project Files
-- `EV_Charging_RawData.xlsx` → cleaned source data  
+- `detailed_ev_charging_stations.xlsx` → cleaned source data  
 - `EV_Charging_Dashboard.xlsx` → interactive dashboard with KPIs, PivotCharts, and slicers
 
 ---
